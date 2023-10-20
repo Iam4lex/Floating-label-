@@ -30,9 +30,10 @@ input{
     border: 2px solid #fcc23f;
     border-radius: 4px;
     width: 300px;
-    font-size: 12px;
+    font-size: 16px;
     transition: 0.2s ease;
     outline: none;
+    color: #fff;
 }
 label{
     position: absolute;
